@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Panagiwthsbarruku
-- i m  a self taught programmer
+- l’m  a self taught programmer
 - After somee time I succeeded and created my own game.
 <!---
 Panagiwthsbarruku/Panagiwthsbarruku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

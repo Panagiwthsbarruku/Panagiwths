@@ -5,7 +5,7 @@ body {
     background-color: green;
     color: rgb(26, 9, 9);
   }
-  
+  #Tic-Tac-Toe
   #board {
     display: grid;
     grid-template-columns: 100px 100px 100px;

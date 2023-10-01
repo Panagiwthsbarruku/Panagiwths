@@ -1,0 +1,16 @@
+body{
+    background-image:url("Hacking.jpg")
+}
+
+h1{
+    color: rgb(165, 42, 42);
+  text-align: center;
+  
+  background-color: black ;
+}
+button{
+    display: flex;
+   right: 80px;
+    border-radius: 5px;
+color: rgb(25, 186, 16);
+}

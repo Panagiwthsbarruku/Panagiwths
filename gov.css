@@ -1,0 +1,60 @@
+body{
+display: block;
+    background-color: rgb(19, 40, 159);
+}
+h1{
+    display: block;
+text-align: center;
+    width: auto;
+    padding: auto;
+    color: azure;    
+}
+h2{
+    color: azure;
+}
+h3{
+   color: rgb(250, 255, 255);   
+   display: block;
+   text-align: center;
+   width: auto;
+   padding: auto;
+   margin-right: 69%;
+}
+
+.danger{
+    color:blue
+}
+
+button{
+    background-color: blue;
+    border-radius: 30%;
+    color: azure;
+    width: auto;
+    padding: auto;
+    margin-left: 89%;
+      margin-inline-end: 10%; 
+}
+img{
+    display: block;
+    margin-left: 81%;
+    width: auto;
+    padding: auto;
+    border-radius: 10%;
+}
+
+p{
+    color: azure;
+    width: auto;
+    margin: auto;
+     padding: 1%;
+     width:auto;
+    margin-right:50%;
+}
+
+div{
+    display: block;
+    width: auto;
+    padding: auto;
+    margin: auto;
+    margin-top: 5%;
+}

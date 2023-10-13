@@ -1,0 +1,50 @@
+text{
+    display: block;
+  text-align: center;
+    padding: auto;
+    width: auto;
+    color:black;
+}
+
+form{
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    width: auto;
+}
+
+label{
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: 0%;
+    width: auto;
+  margin-left: 45%;
+}
+
+input{
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: 10;
+    width: 20%;
+}
+
+button{
+    display: block;
+    margin: auto;
+    width: 20%;
+    padding: 1%;
+    background-color: rgb(244, 102, 102);
+    color: rgb(0, 0, 0);
+}
+select{
+    display: block;
+    margin: auto;
+    padding: 1%;
+    width: 20%;
+}
+option{
+ color: black;
+}

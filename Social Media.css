@@ -1,0 +1,171 @@
+body{
+    background-color: black; 
+}
+text{
+    color:azure;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-left: 46%;
+    width: auto;
+}
+
+.button1{
+    display: block;
+      margin: auto;
+      padding: auto;
+      width: auto;
+      width: auto;
+    color: rgb(255, 240, 240);
+border-radius: 16px;
+    background: linear-gradient(#515BD4,#8134AF,#DD2A7B,#FEDA77,#F58529) ;
+    margin-left: 19%;
+    margin-top: 20%;
+    font-size: 30px;
+    box-shadow: 0 0 15px #dd2aa7;
+    text-shadow: 0 0 15px #DD2A7B;
+}
+
+.button2{
+    background-color: blue;
+    color:azure;
+    border-radius: 16px;
+    margin: auto;
+    padding: auto;
+    width:auto;
+    display: block;
+    align-items: center;
+    margin-left: 19%;
+    font-size: 30px;
+    box-shadow: 0 0 15px #040506;
+    text-shadow: 0 0 15px #DD2A7B;
+}
+
+.button3{
+    background-color: rgb(21, 170, 229);
+    color: azure;
+    border-radius: 16px;
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+  font-size: 30px;
+  box-shadow: 0 0 15px #1f3cbb;
+  text-shadow: 0 0 15px #9b1414;
+}
+
+.button4{
+    background:linear-gradient(#515BD4,#8134AF,#DD2A7B,#FEDA77,#F58529) ;
+    border-radius: 16px;
+    color: azure;
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #DD2A7B;
+   text-shadow: 0 0 15px #DD2A7B;
+}
+
+.button5{
+    background-color: red;
+    border-radius: 18px;
+    color: azure;
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #dd2a5d;
+   text-shadow: 0 0 15px #DD2A7B;
+}
+.button6{
+    background-color: rgb(17, 8, 8);
+    border-radius: 18px;
+    color: azure;
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #f8fdff;
+   text-shadow: 0 0 15px #fff1f8;
+   margin-top: 5%;
+
+}
+.button7{
+    background-color: #efef00;
+    border-radius: 18px;
+    color: hsl(180, 100%, 92%);
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #f3ef21;
+   text-shadow: 0 0 15px #d4ca0e;
+   margin-top: 5%;
+}
+
+.button8{
+    background-color: #03d28d;
+    border-radius: 18px;
+    color: hsl(180, 100%, 92%);
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #21f356;
+   text-shadow: 0 0 15px #11d40e;
+   margin-top: 5%;
+}
+span{
+    display: block;
+    margin: auto;
+    color: #03d28d;
+    width: auto;
+    padding: 0%;
+    margin-left: 10%;
+}
+
+h1{
+    display: block;
+    margin: auto;
+    color: #221796;
+    width: auto;
+    padding: 0%;
+    margin-left: 40%;
+    box-shadow: 0 0 18px  #0c110d;
+    text-shadow: 0  18px #fb00dee9;
+}
+
+.danger1{
+    display: block;
+    margin: auto;
+    color: #b8d2c9;
+    width: auto;
+    padding: 0%;
+    margin-left: 20%;
+    color: #9b1414;
+}
+.button9{
+    background-color: #030f0b;
+    border-radius: 18px;
+    color: hsl(0, 0%, 88%);
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    margin-left: 19%;
+    font-size: 30px;
+   box-shadow: 0 0 15px #edfff1;
+   text-shadow: 0 0 15px #ffffff;
+   margin-top: 5%;
+}

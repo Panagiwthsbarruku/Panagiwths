@@ -1,0 +1,64 @@
+body{
+  background-image: url("diastima.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  
+}
+
+input{
+  display: block;
+  margin: auto;
+  margin:  50px; 
+  border-radius: 10px;
+  margin-top: 10%;
+
+}
+
+.button1{
+  display: block;
+  margin: auto;
+  margin-right: 63%;
+  border-radius: 20px;
+  margin-top: -14%;
+
+}
+
+form{
+  display: block;
+  margin: auto;
+box-shadow: 0 0 0 18px #0000008b;
+width: 300px;
+margin-top: 10%;
+height: 50%;
+background-color: rgba(11, 18, 18, 0.61);
+
+}
+
+h1{
+    display: block;
+  margin: auto;
+  width: auto;
+  color: azure;
+  margin-left: 30%;
+  text-shadow: 0 0 15px;
+
+}
+
+.button2{
+  display: block;
+  margin: auto;
+  margin-left: 60%;
+  margin-top: 15%;
+  border-radius: 10px;
+
+}
+
+p{
+  display: block;
+  margin: auto;
+  color: azure;
+  margin-top: -7%;
+  width: auto; 
+
+}

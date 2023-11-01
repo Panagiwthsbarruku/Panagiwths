@@ -1,0 +1,61 @@
+body{
+  background-color: #000;
+  background-image: url("th\ \(1\).jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ 
+}
+
+form{
+  margin: auto;
+  color: azure;
+  box-shadow: 0 0 0 15px;
+  width: 30%;
+  height: 60%;
+  margin-top: 7%;
+  border-radius: 15px;
+  box-shadow: 0 0 020px #709f29 ;
+}
+
+h1{
+  display: block;
+  margin: auto;
+  width: auto;
+  height: auto;
+  margin-left: 41%;
+   box-sizing: border-box;
+   box-shadow: 0 0 01pc #bcb9b9;
+}
+
+input{
+  display: block;
+  margin: auto;
+  width: auto;
+  height: auto;
+  margin-top: 10%;
+  border-radius: 5px;
+
+}
+.button1{
+  display: block;
+  margin: auto;
+  width: auto;
+  height: auto;
+  margin-left: 43%;
+  border-radius: 5px;
+  margin-top: 5% ;
+
+}
+.button2{
+  display: block;
+  margin: auto;
+  width: auto;
+  margin-top: 25%;
+  border-radius: 5px;
+   
+}
+p{
+  margin-top: -5%;
+}
+

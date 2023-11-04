@@ -1,0 +1,81 @@
+body{
+     background:linear-gradient(320deg,#4c3030,#000000,#981414)
+ 
+
+}
+text{
+    display: block;
+    text-align: center;
+    margin: auto;
+    color: azure;
+    zoom: 2;
+    box-shadow: 0 0 015px hwb(0 82% 15%);
+   color: rgb(25, 255, 12);
+}
+
+.container{
+    margin: 160px 0 0 200px;
+
+
+}
+.row{
+    width: 100%;
+    height: 60px;
+
+}
+.one,.tow,.three,.four{
+    margin: 10px 0 0 0;
+
+
+}
+
+button{
+    height: 55px;
+    width: 55px;
+    border:none;
+    color: rgb(5, 11, 11);
+    background-color: azure; 
+    box-shadow: 5px 5px 10px #3c2b2b , -5px-5px 10px #c2bdbd;
+    margin-left: 5px;
+    font-size: 20px;
+    outline: none;
+font-size: Arial,Helvetica,sans-serif;
+ border-radius: 20%;
+}
+
+button:active{
+    box-shadow: 1px 1px 2px #c2bdbd , -1px -1px 2px #4c3030;
+}
+
+.back{
+    width: 115px;
+  border-radius: 10px;
+}
+.tab{
+    width: 85px;
+    border-radius: 10px;
+}
+.slace{
+    width: 85px;
+    border-radius: 10px;
+}
+.cap{
+    width: 100px;
+    border-radius: 10px;
+}
+.ent-btn{
+    width: 135px;
+    border-radius: 10px;
+}
+.shift{
+    width: 150px;
+    border-radius: 10px;
+}
+.other{
+    width: 82px;
+    border-radius: 10px;
+}
+.space{
+    width: 400px;
+    border-radius: 10px;
+}

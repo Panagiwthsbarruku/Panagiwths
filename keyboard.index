@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Hallowen block|panosbr</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    </head>
+    <body>
+   <text>keyboard</text>       
+   <div class="container">
+    <div class="row one">
+<button>`</button>
+     <button>1</button>
+<button>2</button>
+             <button>3</button>
+   <button>4</button>
+        <button>5</button>
+<button>6</button>
+<button>7</button>
+          <button >8</button>
+<button >9</button>
+<button >0</button>
+         <button >-</button>
+        <button >+=</button>
+       <button class="back">Backspace</button>
+    </div>
+    <div class="row one">
+        <button class="tab">Tab</button>
+        <button class=>Q</button>
+<button >W</button>
+     <button >E</button>
+<button >R</button>
+     <button >T</button>
+<button>Y</button>
+    <button>U</button>
+<button >I</button>
+    <button >O</button>
+<button >P</button>
+<button >[</button>
+<button>]</button>
+<button class="slace">\</button>
+    </div>
+    <div class="container">
+    <div class="row tow">
+        <button class="cap">CapsLk</button>
+        <button>A</button>
+        <button>S</button>
+        <button>D</button>
+        <button>F</button>
+        <button>G</button>
+        <button>H</button>
+        <button>J</button>
+        <button>K </button>
+        <button>L</button>
+        <button>;</button>
+        <button>'</button>
+        <button class="ent-btn">Enter</button>
+    </div>
+    <div class="row three">
+        <button class="shift">Shift</button>
+        <button>z</button>
+        <button>x</button>
+        <button>c</button>
+        <button>v</button>
+        <button>b</button>
+        <button>n</button>
+        <button>m</button>
+        <button>,</button>
+        <button>.</button>
+        <button>/</button>
+        <button>Shift</button>
+    </div>
+    <div class="row four">
+        <button>ctrl</button>
+        <button>Fn</button>
+        <button class="fa-brands fa-windows"></button>
+        <button class="Alt"> Alt</button>
+        <button  class="space">Space</button>
+        <button  class="AltGr">AltGr</button>
+        <button  class="Ctrl">Ctrl</button>
+        <button class="fa-solid fa-arrow-left"></button>
+        <button class="fa-solid fa-arrow-up"></button>
+        <button class="fa-solid fa-arrow-down"></button>
+        <button class="fa-solid  fa-arrow-right"></button>
+        <button>0</button>
+    </div>
+   </div>
+
+        <script src="main.js" async defer></script>
+    </body>
+</html>

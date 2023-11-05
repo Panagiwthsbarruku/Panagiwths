@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Form Login masoutis|panosbr</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+     <div class="box">
+       <h1>Μασούτης</h1>
+       <h2>Είσοδος προσωπικού/Πελατών</h2>
+        <input type="text" placeholder="Username / Όνομα">
+        <input type="text" placeholder="Password / Κωδικός">
+        <button class="button-1" style="display: block;" role="button">Είσοδος</button>
+        <button class="button-2" style="display: block;" role="button">Εγγραφή</button>
+        <p>Αν είσαι καινούργιος πελάτης:</p>
+        <p>Για έκδοση mas card:</p>
+        <button onclick="window.location.href= 'https://www.masoutis.gr/MasCard/NewCard';" style="display: block; margin-top: -6%;" class="button-3">Έκδοση</button>
+        
+       </button>
+     </div>
+    </body>
+</html>

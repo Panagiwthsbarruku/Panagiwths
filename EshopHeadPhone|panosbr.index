@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="script.js">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <title>EshopHeadPhone|panosbr</title>
+</head>
+<body>
+  <h1>BLACK FRIFDAY</h1>
+  <div class="card">
+<button  type="button" onclick="alert('Προσθεθηκε στο καλαθι σας')" class="fa-solid fa-basket-shopping">
+</button>
+  <img src="headphone.jpg" alt="">
+  <text>HeadPhone 1</text>
+  <span class="fa fa-star checked">
+  </span>
+  <span class="fa fa-star checked">
+  </span>
+  <span class="fa fa-star checked">
+  </span>
+  <span class="fa fa-star">
+  </span>
+  <span class="fa fa-star">
+  </span>
+  <br>
+    16,99$
+  </div>
+  <div class="card-1">
+     <img src="headphone(1).jpg" alt="headphone" class="headphones">
+     <button type="button" onclick="alert('Προσθεθηκε στο καλαθι σας')" class="fa fa-basket-shopping">
+    </button>
+       <text class="text1">HeadPhone2</text>
+     <span class="fa fa-star checked1">
+ </span>
+     <span class="fa fa-star checked1">
+ </span>
+     <span class="fa fa-star checked1">
+ </span>
+     <span class="fa fa-star checked1">
+ </span>
+     <span class="fa fa-star">
+     </span>
+<br>
+   19,99$
+  </div> 
+ 
+  
+</body>
+</html>

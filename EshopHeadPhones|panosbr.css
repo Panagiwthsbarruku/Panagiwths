@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(0, 0, 0);
+
+}
+
+.card{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 350px;
+    box-sizing: border-box;
+    box-shadow: 0 0 015px  #1e1d1d;
+    border-radius: 10%;
+    margin-top: 5%;
+    background-color: rgb(254, 255, 255);
+
+}
+
+button{
+    display: block;
+    margin: auto;
+    width: auto;
+    height: auto;
+    margin-left: 80%;
+    margin-top: 125%;
+    border-radius: 100px;
+    background-color: aliceblue;
+
+}
+
+img{
+    position: absolute;
+    margin-left: -13%;
+    margin-top: 1%;
+    border-radius: 10px;
+    height: 200px;
+
+    
+}
+
+.checked{
+    display: block;
+    margin: auto;
+    width: auto;
+    color: orange;
+    margin-top: -4%;
+}
+
+.fa-fa-star{
+    display: block;
+    margin: auto;
+    margin-left: -24%;
+    margin-top: -11%;
+
+}
+
+text{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: -27%;
+    color: #000000;
+}
+
+.card-1{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 350px;
+    box-sizing: border-box;
+    box-shadow:  0 0 018px #000000;
+    border-radius: 10%;
+    margin-top: 7%;
+    background-color: rgb(247, 251, 255);
+}
+
+span{
+    display: block;
+    margin-top: 5%;
+}
+
+.headphones{
+    display: block;
+    margin: auto;
+    margin-left: 3%;
+    border-radius: 15px;
+    background-color: rgb(190, 210, 210);
+    margin-top: 2%;
+
+}
+
+.checked1{
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+    color: orange;
+  margin-left: 1%;
+
+}
+
+.text1{
+    display: block;
+    margin-top: auto;
+    margin-top: -30%;
+}
+
+
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    background: linear-gradient( 320deg,#943535,#3e0707,#30c000);
+}
+

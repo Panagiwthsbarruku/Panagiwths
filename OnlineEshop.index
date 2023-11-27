@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <title>OnlineEshop|PanosBar</title>
+</head>
+<body>
+   
+   <text CLASS="span1"><span>BLACK</span>FRIDAY......</text>
+   <div class="card">
+     <img src="tv.avif" alt="tv OLED">
+     <h3>TV OLED SMART 45" HD</h3>
+     <h4>Αρχική τιμή:200$<br><span>Κερδίζεις:50$</span>
+    </h4>
+ <h5>150,00$</h5>
+      <button class="fa-solid fa-cart-shopping" onclick="alert('Προσθέθηκε στο καλάθι σας')"></button>
+   </div>
+    <div class="card-1">
+   <img src="iphone.webp" alt="">
+   <h3>Iphone 14 pro 128gb</h3>
+  <h4>Αρχική τιμή:500$<br><span>Κερδίζεις:100$</span>
+</h4> 
+<h5>400,00$</h5>
+<button class="fa-solid fa-cart-shopping" onclick="alert('Προσθέθηκε στο καλάθι σας')"></button>
+</div>
+<div class="card-2">
+   <img src="ps5.webp" alt="">
+   <h3> Sony Playstation 5 1T</h3>
+   <h4>Αρχική τιμή:500$<br><span>Κερδίζεις:75$</span>
+ </h4> 
+ <h5>425,00$</h5>
+ <button class="fa-solid fa-cart-shopping" onclick="alert('Προσθέθηκε στο καλάθι σας')"></button>
+</div>
+<div class="card-3">
+   <img src="AIRPODS.webp" alt="">
+   <h3>Airpods</h3>
+   <h4>Αρχική τιμή:200$<br><span>Κερδίζεις:50$</span>
+ </h4> 
+ <h5>150,00$</h5>
+ <button class="fa-solid fa-cart-shopping" onclick="alert('Προσθέθηκε στο καλάθι σας')" ></button>
+</div>
+ <div class="card-4">
+  <img src="LENOVO-M10-SECONDGEN-GREY.webp" alt="">
+  <h3>LENOVO-M10-SECONDGEN-GREY</h3>
+  <h4>Αρχική τιμή:199$<br><span>Κερδίζεις:60$</span>
+</h4> 
+<h5>139,99$</h5>
+<button class="fa-solid fa-cart-shopping" onclick="alert('Προσθέθηκε στο καλάθι σας')"></button>
+ </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <title>ErganiWebSite|panosbr</title>
+</head>
+<body>
+    <div class="navbar">
+        <img src="ergani.jpg" alt="">
+        <button class="fa-solid fa-bars" style="display: block; margin: auto; float: right; background-color: aliceblue; color: black; margin-top: 5%; zoom: 210%;">
+        </button>
+        <button class="fa-regular fa-bell" style="display: block; margin: auto; float: right; background-color: aliceblue; color: black; border-radius: 10px;  margin-top: 5%; zoom: 210%;">
+        </button>
+        <hr>
+     <h2>Καλώς ορίσατε!</h2>
+     <h4>Εργοδότες</h4>
+         <button>Ενεργός (1)</button>
+         <button class="button1">Παλαιότερος (1)</button>
+         <div class="card">
+                <h2>Δ.ΜΑΣΟΥΤΗΣ ΑΕ</h2>
+                Από: 25/10/2023
+                <br>
+                20 ώρες εβδομαδιαίως
+         </div>
+         <div class="card-1">
+          <h2> JUMBO ΑΕ</h2>
+          Από: 04/9/2023
+          <br>
+          40 ώρες εβδομαδιαίως
+         </div>
+         <img src="dimokratia.jpg" alt="" style="display: block; margin: auto; margin-top: 10%;">
+        <img src="gov.jpg" alt="" style="display: block; margin: auto; margin-top: 5%; ">
+        <hr>
+        <div>
+        <button  class="fa-solid fa-users" style="display: block; margin: auto; background-color: rgb(255, 255, 255); border-radius: 40px; color: black; margin-left: 0%; margin-top: 1%;">
+          <br>Εργοδότες</button>
+        <button class="fa-solid fa-paperclip" style="display: block; margin: auto; background-color: rgb(255, 255, 255); color: black; border-radius: 20px; margin-left: 15%; margin-top: -2%; ">
+          <br>Δηλώσεις</button>
+        <button  class="fa-solid fa-calendar-day" style="display: block; margin: auto; background-color: rgb(255, 255, 255); color: black; border-radius: 20px; margin-left:30%; margin-top: -2%;">
+          <br>Ημερολόγιο</button>
+      <button class="fa-solid fa-qrcode" style="display: block; margin: auto; background-color: rgb(255, 255, 255); color: black; border-radius: 20px; margin-top: -2%;">
+        <br>Κάρτα</button>
+    </div>
+    </div>
+  
+</body>
+</html>

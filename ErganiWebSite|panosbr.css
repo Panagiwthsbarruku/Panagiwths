@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Inter&family=Poppins:ital,wght@1,200&family=Roboto&display=swap');
+ body{
+    background-color: rgb(255, 255, 255);
+ }
+
+div{
+   display: block;
+   margin: auto;
+   width: auto;
+   height: auto;
+}
+ hr{
+    margin-top: -0%;
+ }
+img{
+    display: inline;
+    margin: auto;
+    width: 15%;
+    height: 5%;
+
+}
+button{
+    border-radius: 10px;
+    color: rgb(239, 239, 240);
+    background-color: blue;
+}
+.button1{
+   float: right;  
+
+}
+ 
+.card{
+    box-sizing: border-box;
+    box-shadow:  0 0 015px,
+    0 0 010px #19bd00;
+    border-radius: 10px;
+    margin: 0%;
+    width: 40%;
+    padding: 0px;
+}
+
+h2{
+    color: rgb(69, 69, 155);
+}
+.card-1{
+    box-sizing: border-box;
+    box-shadow:  0 0 015px,
+    0 0 010px #19bd00;
+    border-radius: 10px;
+    margin: 0%;
+    width: 40%;
+    padding: 0px;
+    margin-left: 60%;
+    margin-top: -7%;
+}
